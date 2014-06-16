@@ -1,0 +1,11 @@
+# gitignore
+
+#ignore all the leftover tex compilation
+
+*.pdf
+*.snm
+*.log
+*.aux
+*.toc
+*.out
+*.nav
